@@ -4,4 +4,6 @@ En este repositorio se encuentra un proyecto realizado para la materia Programac
 
 El mismo fue realizado en React + Spring Boot + Xtend, utilizando tres bases de datos: MySQL, MongoDB y Redis.
 
+El proyecto se encuentra dockerizado.
+
 Los proyectos fueron realizados por **Pablo Vigliero** y **Santiago Ranieri**.
