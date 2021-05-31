@@ -1,4 +1,4 @@
-# Proyectos UNSAM 2021
+# Proyecto UNSAM 2021
 
 En este repositorio se encuentra un proyecto realizado para la materia Programación con Herramientas Modernas.
 
