@@ -1,0 +1,31 @@
+spring:  
+    data:
+       mongodb:
+         database: pregunta3
+         host: localhost
+         port: 27017
+         repositories:
+           enabled: true
+
+    redis:
+        database: 0
+        host: 127.0.0.1
+        port: 6379
+        timeout: 50000
+
+    
+    datasource:
+        url: jdbc:mysql://localhost:3307/pregunta3?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+        username: root
+        password: 
+        driver-class-name: com.mysql.cj.jdbc.Driver
+
+    jpa:
+        open-in-view: false
+        show-sql: true
+        hibernate:
+            format_sql: true
+            ddl-auto: create-drop
+
+
+        
